@@ -1,0 +1,28 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "nodejs with express js",
+  "main": "index.js",
+  "scripts": {
+    "start":"node --version",
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "indr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indarjoko/expressjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indarjoko/expressjs/issues"
+  },
+  "homepage": "https://github.com/indarjoko/expressjs#readme"
+}
